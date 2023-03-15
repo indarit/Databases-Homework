@@ -1,3 +1,4 @@
+-- semana 2
 drop table if exists order_items;
 drop table if exists orders;
 drop table if exists customers;
